@@ -1,0 +1,14 @@
+C:\Users\hmzta\OneDrive\Desktop\week\week\bin\Debug\net8.0\week.exe
+C:\Users\hmzta\OneDrive\Desktop\week\week\bin\Debug\net8.0\week.deps.json
+C:\Users\hmzta\OneDrive\Desktop\week\week\bin\Debug\net8.0\week.runtimeconfig.json
+C:\Users\hmzta\OneDrive\Desktop\week\week\bin\Debug\net8.0\week.dll
+C:\Users\hmzta\OneDrive\Desktop\week\week\bin\Debug\net8.0\week.pdb
+C:\Users\hmzta\OneDrive\Desktop\week\week\obj\Debug\net8.0\week.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hmzta\OneDrive\Desktop\week\week\obj\Debug\net8.0\week.AssemblyInfoInputs.cache
+C:\Users\hmzta\OneDrive\Desktop\week\week\obj\Debug\net8.0\week.AssemblyInfo.cs
+C:\Users\hmzta\OneDrive\Desktop\week\week\obj\Debug\net8.0\week.csproj.CoreCompileInputs.cache
+C:\Users\hmzta\OneDrive\Desktop\week\week\obj\Debug\net8.0\week.dll
+C:\Users\hmzta\OneDrive\Desktop\week\week\obj\Debug\net8.0\refint\week.dll
+C:\Users\hmzta\OneDrive\Desktop\week\week\obj\Debug\net8.0\week.pdb
+C:\Users\hmzta\OneDrive\Desktop\week\week\obj\Debug\net8.0\week.genruntimeconfig.cache
+C:\Users\hmzta\OneDrive\Desktop\week\week\obj\Debug\net8.0\ref\week.dll
